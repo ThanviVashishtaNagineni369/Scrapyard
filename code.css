@@ -1,8 +1,7 @@
-.container{
-  color: pink;
+h2 {
+  color: red;
 }
-
 body {
-  background-color: grey;
+  background-color: green;
   text-align: center;
 }
